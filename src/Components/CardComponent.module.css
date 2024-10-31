@@ -1,0 +1,14 @@
+.button{
+    transition: 250ms;
+}.button:active{
+    background: #ff0000;
+}.button:hover{
+    scale: 1.1;
+}
+
+.Card{
+    background-color: #FCFCFC;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
